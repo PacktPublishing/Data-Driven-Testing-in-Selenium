@@ -2,9 +2,7 @@
 
 This is the code repository for [Data-Driven Testing in Selenium [Video]](https://www.packtpub.com/web-development/data-driven-testing-selenium-video?utm_source=github&utm_medium=repository&utm_campaign=9781788476430), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-
-	Selenium is one of the most popular engines for UI test automation. It is available for many different programming languages. At the same time, the data-driven approach is one of the most popular approaches for optimizing tests, making them compact, and easily extensible just by adding some new data. 
-	
+Selenium is one of the most popular engines for UI test automation. It is available for many different programming languages. At the same time, the data-driven approach is one of the most popular approaches for optimizing tests, making them compact, and easily extensible just by adding some new data.
 In this course, you’ll practice the data-driven approach using Selenium, Java, and TestNG/JUnit. We’ll start with basic samples and then go through the major steps to abstract application pages using a page object model. After that, we’ll exercise different ways to make our tests data-driven. 
 We’ll start with basic out of the box abilities and then practice more complicated samples to operate with external data from Excel, databases, Spring injection, and more. We’ll go through various improvements to make tests run in parallel. In particular, we’ll explore different options to run data-driven tests in parallel.
 
